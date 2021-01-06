@@ -4,13 +4,7 @@ Olá! Na **RAL** nossos cursos são de tecnologia e desenvolvimento profissional
  
 Conheça nosse site: **https://ral.tec.br**
 
-**Fluxo da RAL: **
 
-Repositório Exemplo 
+*** Repositório Exemplo ***
 
-```mermaid
-graph LR
-A[Cursos] -- Online --> B((Excel))
-A --> C(Desenvolvimento)
-B --> D{Aprendizado!}
-C --> D
+
